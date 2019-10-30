@@ -1,0 +1,8 @@
+nome=input("Entre com seu nome:")
+data=input("Entre com a data de nascimento:")
+peso=input("Entre com seu peso:")
+altura=input("Entre com sua altura:")
+print("Ficha Médica de: ", nome)
+print("Nascido em: ", data)
+print("Pesa: ", peso)
+print("Altura: ", altura)
